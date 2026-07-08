@@ -1,0 +1,8 @@
+streamlit
+watchdog
+pillow
+pandas
+google-genai
+pydantic
+pdfplumber
+pypdfium2

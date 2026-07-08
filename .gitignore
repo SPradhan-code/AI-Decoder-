@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Sensitive API Keys / Configuration
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor Settings
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
